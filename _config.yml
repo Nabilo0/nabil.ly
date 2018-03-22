@@ -1,4 +1,5 @@
-markdown: redcarpet
+markdown: kramdown
+# markdown: redcarpet
 # baseurl: /nabil
 baseurl: ""
 exclude: 
