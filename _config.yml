@@ -1,6 +1,7 @@
+title: Nabil.ly
+email: Nabilalsouhily@gmail.com
 markdown: kramdown
 # markdown: redcarpet
-# baseurl: /nabil
-baseurl: ""
-exclude: 
+baseurl: /nabil.ly
+exclude: ['_site'] 
 # permalink: /:categories/:year/:month/:day/:title:output_ext
