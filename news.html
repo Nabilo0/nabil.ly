@@ -1,0 +1,20 @@
+---
+layout: default
+
+---
+<section>
+<div class="container">
+<h1>News</h1>
+	{% for item in site.posts %}
+
+		<h2><a class="news_head_line" href="{{item.url}} ">{{item.title}}</a></h2>
+ 		<p class="date-published">{{ item.date | date: '%B %d, %Y' }}</p>
+
+
+
+	{% endfor %}
+</div>
+
+</section>
+ 
+ 

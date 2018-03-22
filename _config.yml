@@ -1,0 +1,5 @@
+markdown: redcarpet
+# baseurl: /nabil
+baseurl: ""
+exclude: 
+# permalink: /:categories/:year/:month/:day/:title:output_ext

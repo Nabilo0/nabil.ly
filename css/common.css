@@ -1,0 +1,165 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+html{
+      position: relative;
+      min-height: 100%;
+}
+
+
+body {
+  font-family: Roboto;
+  color: #333;
+  margin: 0px;
+  margin-top: 64px;
+  background-color: #f6f6f6;
+}
+
+header {
+  padding: 48px 0px;
+  background-image: url(images/regal.png);
+  color: #333;
+  border-bottom: 0.2px solid gray;
+}
+#profile_image{
+    border-radius: 90%;
+    width:200px;
+    padding: 5px;
+    border:1px solid #ffcc5c;
+}
+
+#header_image{
+
+   /*height: 50px;*/
+    width: 17%;
+        padding-top: 45px;
+
+}
+header h1 {
+  color: #333;
+  font-size: 3em;
+  margin: 0.4em 0;
+}
+
+article {
+
+}
+
+section {
+  padding-top: 32px;
+  padding-bottom: 0px;
+}
+
+p {
+  line-height: 1.4em;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #333;
+  font-weight: 700;
+}
+
+li a{
+    color:  #333;
+      /*padding: 22.5px 16px;*/
+    display: block;
+    text-align: center;
+    padding: 0px 16px;
+ }
+
+nav {
+  background-color: #333;
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  height: 64px;
+  vertical-align: middle;
+}
+
+nav ul {
+  padding: 0px;
+  margin: 0px;
+  display: inline-block;
+  float: right;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: -5px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  line-height: 64px;
+
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.logo {
+    display: inline-block;
+    margin: 16px 0px;
+    /*line-height: 64px;*/
+    margin: 0px;
+ }
+
+ .current {
+    /*background-color: #000531;*/
+    background-color: #ffcc5c;
+    color: #fff;
+ }
+
+.logo:hover{
+    background-color: #ffcc5c;
+
+}
+li a:hover {
+    background-color: #ffcc5c;
+ }
+
+
+   footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+   background: #313131;
+   color:#fff;
+   text-align: center;
+   padding-top: 30px;
+
+  }
+  #p_footer{
+      text-decoration: none;
+
+color: white;
+  }
+/* .newsaa{
+text-align: left;
+text-decoration: none;
+
+ }*/
+.container h2{
+      margin-bottom: 0;
+}
+ .news_head_line{
+  text-decoration: none;
+  color: #333;
+
+ }
+ .date-published {
+  color: #ff5252;
+  font-size: 90%;
+    padding : 0;
+    margin : 0;
+    /*line-height : 120px;*/
+ }
+  section div h2 a:hover {
+    background-color: #ffcc5c;
+    color: #fff;
+  }
