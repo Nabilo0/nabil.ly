@@ -3,9 +3,12 @@ email: Nabilalsouhily@gmail.com
 markdown: kramdown
 # markdown: redcarpet
 <<<<<<< HEAD
+<<<<<<< HEAD
 baseurl: ""
 exclude: ['_site','CNAME'] 
 =======
+=======
+>>>>>>> aac4fc6b51f55066558625157500d9e056da6116
 baseurl:
 exclude: ['_site'] 
 >>>>>>> aac4fc6b51f55066558625157500d9e056da6116
