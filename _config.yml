@@ -2,6 +2,11 @@ title: Nabil.ly
 email: Nabilalsouhily@gmail.com
 markdown: kramdown
 # markdown: redcarpet
+<<<<<<< HEAD
 baseurl: ""
+exclude: ['_site','CNAME'] 
+=======
+baseurl:
 exclude: ['_site'] 
+>>>>>>> aac4fc6b51f55066558625157500d9e056da6116
 # permalink: /:categories/:year/:month/:day/:title:output_ext
