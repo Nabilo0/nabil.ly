@@ -3,5 +3,5 @@ email: Nabilalsouhily@gmail.com
 markdown: kramdown
 # markdown: redcarpet
 baseurl: ""
-exclude: ['_site','CNAME'] 
+exclude: ['_site'] 
 
