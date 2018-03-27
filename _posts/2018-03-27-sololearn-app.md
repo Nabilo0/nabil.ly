@@ -20,10 +20,10 @@ and web development.
 
 
 ### Source
-* [Official site](https://www.sololearn.com/)
-* [angel.co/sololearn](https://angel.co/sololearn)
+[Official site](https://www.sololearn.com/)
+[angel.co/sololearn](https://angel.co/sololearn)
 
 
 ### Download
-* [For android]( https://play.google.com/store/apps/details?id=com.sololearn)
-* [For apple](https://itunes.apple.com/us/app/sololearn-learn-to-code/id1210079064?mt=8)
+[For android]( https://play.google.com/store/apps/details?id=com.sololearn)
+[For apple](https://itunes.apple.com/us/app/sololearn-learn-to-code/id1210079064?mt=8)
