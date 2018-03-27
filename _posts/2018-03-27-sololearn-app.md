@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SoloLearn App"
-date: 2018-03-27 17:16:19
+date: 2018-03-27 01:16:19
 category: news
 ---
 
@@ -11,8 +11,7 @@ Python
 Java
 and web development.
 
-{% youtube https://youtu.be/o8kT5c_4PAc %}
-
+ 
 
 ### Source
 https://www.sololearn.com/
