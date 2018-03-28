@@ -4,9 +4,9 @@ title: "Ruby Language"
 date: 2018-03-10 15:43:19
 category: news
 ---
-<section class="img_post_md">
+<!-- <section class="img_post_md">
 ![image tooltip here](/css/images/ruby.png)
-</section>
+</section> -->
 
 ### Ruby Languge
 
