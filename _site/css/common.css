@@ -134,9 +134,8 @@ li a:hover {
    padding-top: 30px;
 
   }
-  #p_footer{
-      text-decoration: none;
-
+#p_footer{
+text-decoration: none;
 color: white;
   }
 /* .newsaa{
@@ -163,3 +162,8 @@ text-decoration: none;
     background-color: #ffcc5c;
     color: #fff;
   }
+
+.img_post_md{
+      border: 10px solid transparent;
+
+}
