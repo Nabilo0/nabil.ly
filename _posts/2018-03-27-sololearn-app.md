@@ -5,7 +5,7 @@ date: 2018-03-27 01:16:19
 category: news
 ---
 <section class="img_post_md">
-![image tooltip here](/css/images/sololearn.jpg)
+![image tooltip here]({{site.url}}/css/images/sololearn.jpg)
 ![sololearn][{{site.url}}/css/images/sololearn.png]
 </section>
 
