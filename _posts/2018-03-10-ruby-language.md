@@ -4,7 +4,7 @@ title: "Ruby Language"
 date: 2018-03-10 15:43:19
 category: news
 ---
-<img src="/css/images/sololearn.jpg" alt="" width="40%">
+<img src="/css/images/ruby.jpg" alt="" width="40%">
 <!-- ![image](/css/images/ruby.png) -->
 
 ### Ruby Languge
