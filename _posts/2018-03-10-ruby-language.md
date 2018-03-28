@@ -4,9 +4,6 @@ title: "Ruby Language"
 date: 2018-03-10 15:43:19
 category: news
 ---
-<!-- <section class="img_post_md">
-![image tooltip here](/css/images/ruby.png)
-</section> -->
 
 ### Ruby Languge
 
@@ -30,4 +27,5 @@ y = 5.plus 6
 {% endhighlight %}
 Ruby’s operators are syntactic sugar for methods. You can redefine them as well.
 
-https://www.ruby-lang.org/en/about/
+### Source
+[Official site](https://www.ruby-lang.org/en/about/)
