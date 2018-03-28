@@ -4,8 +4,8 @@ title: "Ruby Language"
 date: 2018-03-10 15:43:19
 category: news
 ---
-<img src="/css/images/ruby.jpg" alt="" width="40%">
-<!-- ![image](/css/images/ruby.png) -->
+![image](/css/images/ruby.jpg)
+<!-- <img src="/css/images/ruby.jpg" alt="" width="40%"> -->
 
 ### Ruby Languge
 
