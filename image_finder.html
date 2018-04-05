@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		#list-data li{
+			display: inline-block;
+			max-width:300px;
+		}
+		li img{
+			max-width :100%; 
+			vertical-align: middle;
+		}
+
+		.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button5 {
+    background-color: white;
+    color: black;
+    border: 2px solid #333;
+}
+
+.button5:hover {
+    background-color: gold;
+    color: white;
+}
+		</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/common.css">
+
+</head>
+<body>
+	<nav>
+<div class='container'>
+<h1 class="logo {% if page.url == '/' %}current{% endif %}"><a href="{{site.baseurl}}/index.html">Nabil.ly</a></h1>
+<ul>
+<li><a  class="{% if page.url == '/news.html' %}current{% endif %}" href="{{site.baseurl}}/news.html">News</a></li>
+<li><a  class="{% if page.url == '/image_finder.html' %}current{% endif %}" href="{{site.baseurl}}/image_finder.html">Image Finder</a></li>
+<li><a  class="{% if page.url == '/contect.html' %}current{% endif %}" href="{{site.baseurl}}/contect.html">Contact</a></li>
+<li><a  class="{% if page.url == '/about.html' %}current{% endif %}" href="{{site.baseurl}}/about.html">About</a></li>
+  </ul>
+</nav>
+
+	<!-- <button class="button button5">Black</button> -->
+
+	
+	<!-- <h1>Guess the Tag</h1> -->
+		<form id="query-form" style="text-align: center;">
+			<input type="submit" value="Search" class="button button5"/></br>
+			<input style=" height: 1.5em;" type="text" id="query" placeholder="Insert One Word" />
+				</form>
+	
+			<ul id="choices">
+			</ul>
+			<ul id="list-data">			
+			</ul>
+
+
+<script src="./image_finder/masonry.pkgd.min.js"></script>
+<script src="./image_finder/script.js"></script>
+
+			
+
+</body>
+</html>
